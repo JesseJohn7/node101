@@ -11,6 +11,8 @@ npm-v to know the version of npm
 
 npm init -y create package.json in root
 
+Package.json more like an ID tells you what everything is about name and others
+
 
 
 

@@ -28,6 +28,7 @@ Add dev script make tsx watch src/index.ts directly you can put console.log ("so
 
 Anytime you chnage something automatically changes 
 
+tsconfig.js is used to helpcompile  the typescript into javascript
 
 
 

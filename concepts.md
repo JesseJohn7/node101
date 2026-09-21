@@ -9,7 +9,7 @@ NPM - Node Package Manager helps install package and install scripts
 node -v to know the version of node
 npm-v to know the version of npm
 
-npm init-y create package.json in root
+npm init -y create package.json in root
 
 
 
